@@ -10,7 +10,7 @@
 
 经常整的活
 
-![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-dart-00B4AB?style=flat-square&logo=dart&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
