@@ -1,11 +1,6 @@
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
-* 一只某高校在读大学生
-* 喜欢mc
-* 初级动漫爱好者
-
-
 经常整的活
 
 ![](https://img.shields.io/badge/-Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=fff)
